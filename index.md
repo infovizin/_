@@ -130,7 +130,7 @@ function closeNav() {
     /*
     var disqus_config = function () {
         this.page.url = infoviz-in.disqus.com ;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = disqus_ADZlTwrVqA; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.identifier = ; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() {  // DON'T EDIT BELOW THIS LINE
