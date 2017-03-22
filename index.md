@@ -129,14 +129,14 @@ function closeNav() {
      */
     /*
     var disqus_config = function () {
-        this.page.url = village-protocol.disqus.com;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.url = infoviz-in.disqus.com ;  // Replace PAGE_URL with your page's canonical URL variable
         this.page.identifier = disqus_ADZlTwrVqA; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         
-        s.src = 'https://village-protocol.disqus.com/embed.js';
+        s.src = 'https://infoviz-in.disqus.com/embed.js';
         
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
