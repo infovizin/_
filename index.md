@@ -120,6 +120,7 @@ function closeNav() {
 
 </script>
 
+<a target="_blank" href="https://www.amazon.in/b?_encoding=UTF8&tag=villageprotoc-21&linkCode=ur2&linkId=c928cf76ed4db5a66b479f1c7e13875e&camp=3638&creative=24630&node=1350380031">Learning Toys</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=villageprotoc-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <div id="disqus_thread"></div>
 <script>
