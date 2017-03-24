@@ -71,7 +71,8 @@ function closeNav() {
 
 <br>
 <br>
-<center>
+<h2>About</h2><br>
+<p>Info Viz provides access to key statistics and useful information available in the public domain. Map based visualization is an effective way to navigate quickly to find the information you want. Currently, this site provides electrol and demographic information of south indian states. Click the <a href="./ka.html">Karnataka Map</a> and select your constituency to check the number of votes obtained by each contestant. </p>
 
 
 <br>
