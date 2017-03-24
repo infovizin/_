@@ -76,23 +76,7 @@ function closeNav() {
 <br>
 <br>
 <center>
-<h2>Simplifying Search</h2>
-<p>Village Protocol search engine gives you the most relevant information from various government departments and ministries.</p>
-</center>
-<script>
-  (function() {
-    var cx = '005900458493526325031:f7q7hqbim3s';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search  linktarget="_parent"></gcse:search>
 
-<br>
 
 <br>
 <br>
