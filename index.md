@@ -54,8 +54,6 @@ body {
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
    <a href="./ka.html">Karnataka Map</a>
- //<a href="./twitter.html">News</a>
-   // <a href="./jobs.html">Jobs</a>
  <a href="./search.html">Search</a>
  
 </div>
