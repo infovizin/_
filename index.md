@@ -53,11 +53,11 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="https://village-protocol.github.io/_/twitter.html">Tweets</a>
-   <a href="https://village-protocol.github.io/_/map.html">Map</a>
-  <a href="https://village-protocol.github.io/_/legend.png">Map Legend</a>
-    <a href="https://village-protocol.github.io/_/rss.html">Govt Updates</a>
-  <a href="https://drive.google.com/file/d/0B8b-H-hFs5u4bEhIS1kwZ0pfd2M/view?usp=sharing">2013 Elections</a>
+   <a href="./ka.html">Karnataka Map</a>
+  <a href="./twitter.html">News</a>
+    <a href="./jobs.html">Jobs</a>
+ <a href="./search.html">Search</a>
+ 
 </div>
 
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
