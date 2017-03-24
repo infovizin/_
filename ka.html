@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,7 +12,6 @@ html, body, #googft-mapCanvas {
   width: 100%;
 }
 </style>
-
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBaJ98ELcVv4SDHtc3Z8AxfvdTIjV7CImA&amp;libraries=visualization"></script>
 
 <script type="text/javascript">
@@ -27,10 +27,12 @@ html, body, #googft-mapCanvas {
     mapDiv.style.width = isMobile ? '100%' : '100%';
     mapDiv.style.height = isMobile ? '100%' : '100%';
     var map = new google.maps.Map(mapDiv, {
-      center: new google.maps.LatLng(13.690766992942294, 76.792460892796516),
+      center: new google.maps.LatLng(13.701467935236277, 77.91372434375),
       zoom: 7,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
+    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend-open'));
+    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend'));
 
     layer = new google.maps.FusionTablesLayer({
       map: map,
@@ -41,8 +43,8 @@ html, body, #googft-mapCanvas {
         where: ""
       },
       options: {
-        styleId: 3,
-        templateId: 3
+        styleId: 7,
+        templateId: 11
       }
     });
 
@@ -72,3 +74,4 @@ html, body, #googft-mapCanvas {
   <div id="googft-mapCanvas"></div>
 </body>
 </html>
+
