@@ -1,12 +1,9 @@
-<style type='text/css'> #indJobContent { padding-bottom: 5px; } #indJobContent .company_location{ font-size: 11px; overflow: hidden; } #indJobContent .job { display:block; overflow: hidden; } #indeed_widget_wrapper { position: relative; font-family: Arial,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; padding: 5px; overflow: hidden; border: 1px solid #DDDDDD; color: #000000; background-color: #FFFFFF; } #indeed_widget_wrapper, #indeed_link a{ color: #000000; text-decoration: none; } .indeed_search_wrapper { clear: both; font-size: 15px; } .indeed_search_wrapper label { line-height: inherit; text-align: left; padding: 5px; } .indeed_search_wrapper input[type='text'] { font-size: 12px; } .indeed_search_wrapper .qc { float:left; } .indeed_search_wrapper .lc { float:left; } #indeed_link { position: absolute; bottom: 1px; right: 5px; clear: both; font-size: 12px; } #results .job { padding: 5px; } #pagination { clear: both; font-size: 16px; padding: 5px; } .jobtitle { font-size: 16px; } .company { font-size: 15px; } .location { font-size: 15px; color: #666; } .job_age { font-size: 13px; color: gray; } .iaLabel { color: #f60; } #indJobContent a { color: #00c; } #indeed_widget_header{ font-size: 18px; padding-bottom: 5px; color: #000000; } 
+<!doctype html>
+<html>
+  <head>
 
-
-body {
-    font-family: "Lato", sans-serif;
-    transition: background-color .5s;
-}
-
-.sidenav {
+    <style>
+      .sidenav {
     height: 100%;
     width: 0;
     position: fixed;
@@ -18,7 +15,6 @@ body {
     transition: 0.5s;
     padding-top: 60px;
 }
-
 .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
@@ -27,11 +23,9 @@ body {
     display: block;
     transition: 0.3s
 }
-
 .sidenav a:hover, .offcanvas a:focus{
     color: #f1f1f1;
 }
-
 .sidenav .closebtn {
     position: absolute;
     top: 0;
@@ -39,89 +33,82 @@ body {
     font-size: 36px;
     margin-left: 50px;
 }
-
 #main {
     transition: margin-left .5s;
     padding: 16px;
 }
-
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-</style>
-  <meta name="viewport" content="width=device-width">
+  </style>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Info VIz</title>
 
-<body>
+    <link rel="stylesheet" href="/_/assets/css/style.css?v=3f250f7ed0f4b5530db697c516784a6a86d9ea0c">
+ 
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-
-<div id="mySidenav" class="sidenav">
+  
+  </head>
+  <body>
+    
+    <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="./">Home</a>
    <a href="./ka.html">Karnataka Map</a>
-  <a href="./twitter.html">News</a>
     <a href="./jobs.html">Jobs</a>
- 
-</div>
+<a href="./search.html">Search</a>
 
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
+
+</div>
+      
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
 <script>
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
 }
-
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
 </script>
+    
+	
+	<script type='text/javascript'> var ind_pub = '9773799579622055'; var ind_el = 'indJobContent'; var ind_pf = ''; var ind_q = ''; var ind_chnl = 'none'; var ind_n = 10; var ind_d = 'https://www.indeed.co.in'; var ind_t = parseInt('40'); var ind_c = 30; var ind_age = '1'; var ind_snp = '1'; var ind_iaTxt = 1; var ind_pgn = 1; var ind_pgnCnt = parseInt('5'); function setDefaultSearches() { var q = args['q']; var l = args['l']; var queryInputs = document.getElementsByClassName('q'); for (var i=0; i < queryInputs.length; i++) { queryInputs[i].value = q ? q : ''; } var locInputs = document.getElementsByClassName('l'); for (var i=0; i < locInputs.length; i++) { locInputs[i].value = l ? l : ''; } } var args = {}; if (document.location.search.length > 0) { var q = document.location.search.substring(1).split('&'); for (i = 0; i < q.length; i++) { var p = unescape(q[i]); if (p.indexOf('=') == -1) { args[p.trim()] = true; } else { var kv = p.split('='); args[kv[0].trim()] = kv[1].trim(); } } } function clearDefaults(which_form){ var formInputs=document.getElementsByClassName('indeed_jobform')[which_form].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].value=='title, keywords' || formInputs[i].value=='city, state, or zip'){ formInputs[i].value=''; } } } function runSearch(which_form){ var formInputs=document.getElementsByClassName('indeed_jobform')[which_form].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].name == 'q') { window.ind_q = formInputs[i].value; } else if(formInputs[i].name == 'l') { window.ind_l = formInputs[i].value; } } /* make the other form match */ formInputs=document.getElementsByClassName('indeed_jobform')[which_form ? 0 : 1].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].name == 'q') { formInputs[i].value = window.ind_q; } else if(formInputs[i].name == 'l') { formInputs[i].value = window.ind_l; } } document.cookie = 'IND_RQ=q=' + window.ind_q + '&l=' + window.ind_l; document.getElementById('results').style.opacity = 0.3; window.ind_nr = 1; window.indeedJobroll.getJobs(0); window.scrollTo(0,0); } </script> 
+	
     <div class="wrapper">
-<script type='text/javascript'> var ind_pub = '9773799579622055'; var ind_el = 'indJobContent'; var ind_pf = ''; var ind_q = ''; var ind_chnl = 'none'; var ind_n = 10; var ind_d = 'https://www.indeed.co.in'; var ind_t = parseInt('40'); var ind_c = 30; var ind_age = '1'; var ind_snp = '1'; var ind_iaTxt = 1; var ind_pgn = 1; var ind_pgnCnt = parseInt('5'); function setDefaultSearches() { var q = args['q']; var l = args['l']; var queryInputs = document.getElementsByClassName('q'); for (var i=0; i < queryInputs.length; i++) { queryInputs[i].value = q ? q : ''; } var locInputs = document.getElementsByClassName('l'); for (var i=0; i < locInputs.length; i++) { locInputs[i].value = l ? l : ''; } } var args = {}; if (document.location.search.length > 0) { var q = document.location.search.substring(1).split('&'); for (i = 0; i < q.length; i++) { var p = unescape(q[i]); if (p.indexOf('=') == -1) { args[p.trim()] = true; } else { var kv = p.split('='); args[kv[0].trim()] = kv[1].trim(); } } } function clearDefaults(which_form){ var formInputs=document.getElementsByClassName('indeed_jobform')[which_form].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].value=='title, keywords' || formInputs[i].value=='city, state, or zip'){ formInputs[i].value=''; } } } function runSearch(which_form){ var formInputs=document.getElementsByClassName('indeed_jobform')[which_form].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].name == 'q') { window.ind_q = formInputs[i].value; } else if(formInputs[i].name == 'l') { window.ind_l = formInputs[i].value; } } /* make the other form match */ formInputs=document.getElementsByClassName('indeed_jobform')[which_form ? 0 : 1].elements; for(var i=0;i<formInputs.length;i++){ if(formInputs[i].name == 'q') { formInputs[i].value = window.ind_q; } else if(formInputs[i].name == 'l') { formInputs[i].value = window.ind_l; } } document.cookie = 'IND_RQ=q=' + window.ind_q + '&l=' + window.ind_l; document.getElementById('results').style.opacity = 0.3; window.ind_nr = 1; window.indeedJobroll.getJobs(0); window.scrollTo(0,0); } </script> <div id='indeed_widget_wrapper' style=''> <div id='indeed_widget_header'>Search Jobs</div> <div class='indeed_search_wrapper'> <form onsubmit='clearDefaults(0);runSearch(0);return false;' method='get' class='indeed_jobform' target="_new"> <div class="qc"><label>What:</label><input type='text' onfocus='this.value=""' value='title, keywords' name='q' class='q'></div> <div class="lc"><label>Where:</label><input type='text' onfocus='this.value=""' value='city, state, or pin' name='l' class='l'></div> <div style='float:left'><input type='submit' value='Find Jobs' class='findjobs'></div> </form> </div> <br/><br/> <div id='indJobContent' class=""></div> <div id='indeed_link'> <a title="Job Search" href="https://www.indeed.co.in/?indpubnum=9773799579622055" rel="nofollow" target="_new">jobs by <img alt=Indeed src='https://www.indeed.com/p/jobsearch.gif' style='border: 0;vertical-align: bottom;'> </a> </div> <script type='text/javascript'> setDefaultSearches(); </script> </div><script type='text/javascript' src='https://www.indeed.co.in/ads/jobroll-widget-v3.js'></script>
+   
+  <div id='indeed_widget_wrapper' style=''> <div id='indeed_widget_header'>Search Jobs</div> <div class='indeed_search_wrapper'> <form onsubmit='clearDefaults(0);runSearch(0);return false;' method='get' class='indeed_jobform' target="_new">
+
+ <div class="qc"><label>What:</label><input type='text' onfocus='this.value=""' value='title, keywords' name='q' class='q'></div> <div class="lc"><label>Where:</label><input type='text' onfocus='this.value=""' value='city, state, or pin' name='l' class='l'></div> 
+ 
+ <div style='float:left'><input type='submit' value='Find Jobs' class='findjobs'></div> </form> </div> <br/><br/>
+
+ <div id='indJobContent' class=""></div> 
+
+<div id='indeed_link'> <a title="Job Search" href="https://www.indeed.co.in/?indpubnum=9773799579622055" rel="nofollow" target="_new">jobs by <img alt=Indeed src='https://www.indeed.com/p/jobsearch.gif' style='border: 0;vertical-align: bottom;'> </a> </div> 
+
+<script type='text/javascript'> setDefaultSearches(); </script> </div>
+
+<script type='text/javascript' src='https://www.indeed.co.in/ads/jobroll-widget-v3.js'></script>
 <br>
-    </div>
-        <br>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+
+	   
+	   </div>
+  
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
 
-<div class="fb-page" data-href="https://www.facebook.com/Info-Viz-1948920861995561/" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Info-Viz-1948920861995561/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Info-Viz-1948920861995561/">Facebook</a></blockquote></div>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-93166938-1', 'auto');
-  ga('send', 'pageview');
+  
+  </body>
+</html>
 
 
-</script>
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = infoviz-in.disqus.com ;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = ; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = 'https://infoviz-in.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-</body>
+
+
