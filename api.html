@@ -4,25 +4,33 @@
 
  <center>
 <form action="https://developer.nrel.gov/api/pvwatts/v5.json?api_key=" method="get" target="_blank">
-<input type="hidden" name="api_key" value="jCtAj6gJCBngSY1vFYFfvU96bY85SAEDzzlXayPC">
- First name: <input type="text" name="address"><br>
-  First name: <input type="text" name="timeframe"><br>
-    First name: <input type="number" name="radius"><br>
-   First name: <input type="number" name="system_capacity"><br>
-    First name: <input type="number" name="module_type"><br>
-     First name: <input type="number" name="losses"><br>
-      First name: <input type="number" name="array_type"><br>
-       First name: <input type="number" name="tilt"><br>
-        First name: <input type="number" name="azimuth"><br>
-                First name: <input type="text" name="dataset"><br>
-                First name: <input type="text" name="callback"><br>
-
+<br>
+ <input type="hidden" name="api_key" value="jCtAj6gJCBngSY1vFYFfvU96bY85SAEDzzlXayPC">
+ Location: <input type="text" name="address"><br>
+  <br>
+ Timestamp (monthly or hourly): <input type="text" name="timeframe"><br>
+ <br> 
+ Radius: <input type="number" name="radius"><br>
+ <br>
+ System Capacity (kW): <input type="number" name="system_capacity"><br>
+ <br>
+ Module Type (0—Standard, 1—Premium, 2—Thin film): <input type="number" name="module_type"><br>
+ <br>
+ System Losses (-5% – 99%): <input type="number" name="losses"><br>
+ <br>
+ Array Type (0	Fixed - Open Rack, 1	Fixed - Roof Mounted, 2	1-Axis, 3	1-Axis Backtracking, 4 2-Axis): <input type="number" name="array_type"><br>
+ <br>
+ Tilt (0–90 degrees): <input type="number" name="tilt"><br>
+ <br>
+ Azimuth (0–360 degrees): <input type="number" name="azimuth"><br>
+ <br>
+ Solar Dataset (tmy2–TMY2, tmy3–TMY3, intl–International dataset, IN–India dataset): <input type="text" name="dataset"><br>
+ <br>
   <input type="submit" value="Submit">
   
 </form>
  </center>
 
-<p>Click on the submit button, and the input will be sent to a page on the server called "/action_page.php".</p>
 
 </body>
 </html>
