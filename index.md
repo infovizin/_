@@ -6,16 +6,16 @@ body {
 
 </style>
  
-</body>
+<body>
 
-
-<br>
-<br>
-<h2>About</h2><br>
-<p>Info Viz provides map based visualization of electrol and demographic information of south indian states. Click the <a href="./ka.html">Karnataka Map</a> and select your constituency to check the number of votes obtained by each contestant. </p>
-
+<h2>Karnataka Assembly Poll Results - 2013</h2><br>
+<h3>Constituency-Wise Results</h3>
 <a target="_blank" href="./ka.html">
   <img src="./ka_poll.png" alt="Forest" style="width:150px">
+    
+<h3>Polling Percentages</h3>
+<a target="_blank" href="./ka_poll.html">
+  <img src="./ka_polls.png" alt="Forest" style="width:150px">
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
