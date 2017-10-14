@@ -51,13 +51,6 @@ body {
 
 <body>
 
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-   <a href="./ka.html">Karnataka Map</a>
- <a href="./search.html">Search</a>
- 
-</div>
-
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
 <script>
 function openNav() {
@@ -72,7 +65,7 @@ function closeNav() {
 <br>
 <br>
 <h2>About</h2><br>
-<p>Info Viz provides access to key statistics and useful information available in the public domain. Map based visualization is an effective way to navigate quickly to find the information you want. Currently, this site provides electrol and demographic information of south indian states. Click the <a href="./ka.html">Karnataka Map</a> and select your constituency to check the number of votes obtained by each contestant. </p>
+<p>Info Viz provides map based visualization of electrol and demographic information of south indian states. Click the <a href="./ka.html">Karnataka Map</a> and select your constituency to check the number of votes obtained by each contestant. </p>
 
 
 <br>
@@ -100,26 +93,5 @@ function closeNav() {
 
 </script>
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = infoviz-in.disqus.com ;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = ; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = 'https://infoviz-in.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
 
 
