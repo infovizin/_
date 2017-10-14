@@ -12,7 +12,7 @@ body {
 <h3>Constituency-Wise Results</h3>
 <a target="_blank" href="./ka.html">
   <img src="./ka_poll.png" alt="Forest" style="width:150px">
-    
+    <br>
 <h3>Polling Percentages</h3>
 <a target="_blank" href="./ka_poll.html">
   <img src="./ka_polls.png" alt="Forest" style="width:150px">
