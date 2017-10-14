@@ -15,7 +15,7 @@ body {
 <p>Info Viz provides map based visualization of electrol and demographic information of south indian states. Click the <a href="./ka.html">Karnataka Map</a> and select your constituency to check the number of votes obtained by each contestant. </p>
 
 <a target="_blank" href="./ka.html">
-  <img src="./ka.html" alt="Forest" style="width:150px">
+  <img src="./ka_poll.png" alt="Forest" style="width:150px">
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
