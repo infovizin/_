@@ -6,8 +6,6 @@ body {
 
 </style>
  
-<body>
-
 <h2>Karnataka Assembly Poll Results</h2><br>
 <h3>Constituency-wise Voting</h3>
 <iframe width="700" height="450" src="http://www.google.com" frameborder="0" style="border:0" allowfullscreen></iframe>
