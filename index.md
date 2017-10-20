@@ -8,10 +8,10 @@ body {
 
 <h2>Karnataka Assembly Poll Results</h2><br>
 <h3>Constituency-wise Voting</h3>
-<iframe width="700" height="550" src="https://datastudio.google.com/reporting/0B3XRb21GCZvLTWZ3SVd3RXBtTWc/page/9XMJ" allowfullscreen></iframe>
+<iframe width="700" height="550" src="https://datastudio.google.com/open/0B3XRb21GCZvLTWZ3SVd3RXBtTWc" allowfullscreen></iframe>
 
 <h3>Winning Margin by Category and Party</h3>
-<iframe width="700" height="450" src="https://datastudio.google.com/reporting/0B3XRb21GCZvLNE13bG1IamU3S2s/page/2WMJ" allowfullscreen></iframe>
+<iframe width="700" height="450" src="https://datastudio.google.com/open/0B3XRb21GCZvLNE13bG1IamU3S2s" allowfullscreen></iframe>
 
    <br>
 <h3>Constituency-wise Polling Percentage </h3>
