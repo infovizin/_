@@ -5,11 +5,10 @@ body {
 }
 
 </style>
- <iframe src="demo_iframe.htm" height="200" width="300"></iframe>
- 
+
 <h2>Karnataka Assembly Poll Results</h2><br>
 <h3>Constituency-wise Voting</h3>
-<iframe width="700" height="450" src="http://www.google.com" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="700" height="550" src="http://www.google.com" allowfullscreen></iframe>
 
 <h3>Winning Margin by Category and Party</h3>
 <iframe width="700" height="450" src="https://datastudio.google.com/reporting/0B3XRb21GCZvLNE13bG1IamU3S2s/page/2WMJ" frameborder="0" style="border:0" allowfullscreen></iframe>
