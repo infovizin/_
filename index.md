@@ -18,6 +18,12 @@ body {
 <a target="_blank" href="./ka_poll.html">
   <img src="./ka_polls.png" alt="Forest" style="width:150px">
     
+     <br>
+<h2>Telangana Assembly Poll Results</h2><br>
+
+<h3>Constituency-wise Polling Percentage </h3>
+<a target="_blank" href="./ts_poll.html">
+  <img src="./tn_poll.png" alt="Forest" style="width:150px">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
