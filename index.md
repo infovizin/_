@@ -39,8 +39,10 @@ body {
   <h3>Constituency-wise Polling Percentage </h3>
 <a target="_blank" href="./ap_poll.html">
   <img src="./ap_poll.png" alt="Forest" style="width:150px">
-    
-    
+   
+ <br>
+ <a href="mailto:contact@infoviz.in?Subject=Hello%20Again" target="_top">contact@infoviz.in</a>
+ 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
