@@ -29,6 +29,17 @@ body {
 <a target="_blank" href="./ts_poll.html">
   <img src="./tn_poll.png" alt="Forest" style="width:150px">
     
+ <h2>Andhra Pradesh Assembly Poll Results</h2><br>
+<h3>Constituency-wise Voting</h3>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/0B3XRb21GCZvLdDZWRzBxMkF2X1E/page/9XMJ" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<h3>Winning Margin by Category and Party</h3>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/0B3XRb21GCZvLVXFMdVltN3NVX2c/page/2WMJ" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+  <h3>Constituency-wise Polling Percentage </h3>
+<a target="_blank" href="./ap_poll.html">
+  <img src="./ap_poll.png" alt="Forest" style="width:150px">
+    
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
