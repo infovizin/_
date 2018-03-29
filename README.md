@@ -1,4 +1,4 @@
 # VCS Documentation
 
-### [PDF](./election.pdf)
+### [PDF](election.pdf)
 
