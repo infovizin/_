@@ -1,3 +1,3 @@
 
   * [Home](/)
-  ** [Elections](elections.md)
+  * [Elections](elections.md)
