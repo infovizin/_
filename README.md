@@ -1,4 +1,4 @@
-# VCS Documentation
+# Home
 
-### [PDF](elections.md)
+### [Election Results](elections.md)
 
