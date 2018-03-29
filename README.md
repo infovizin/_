@@ -1,6 +1,4 @@
 # VCS Documentation
 
-### [Compile-Time Options](./comp.md)
-### [Environment Variables](./env.md)
+### [PDF](./election.pdf)
 
-### [ZeBu Release Notes](./zebu.md)
