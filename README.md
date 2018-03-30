@@ -1,4 +1,3 @@
-# Home
+# About
 
-### [Election Results](elections.md)
 
