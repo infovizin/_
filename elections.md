@@ -1,1 +1,1 @@
-* [Karnataka](ka.md)
+ [Karnataka](ka.md)
