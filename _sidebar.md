@@ -1,5 +1,5 @@
 
-  * [Home](/)
+  * [About](/)
   * [Elections](elections.md)
     * [Karnataka](ka.md)
     * [Andhra Pradesh](ap.md)
