@@ -1,13 +1,8 @@
  
 
-**THE RIGHT TO INFORMATION ACT, 2005**
+# THE RIGHT TO INFORMATION ACT, 2005
 
-No. 22 of 2005
-
-\[15th June,
-> > 2005\]
-
-> > ###### An Act to provide for setting out the practical regime of right to information for citizens to secure access to information under the control of public authorities, in order to promote transparency and accountability in the working of every public authority, the constitution of a Central Information Commission and State Information Commissions and for matters connected therewith or incidental thereto.
+An Act to provide for setting out the practical regime of right to information for citizens to secure access to information under the control of public authorities, in order to promote transparency and accountability in the working of every public authority, the constitution of a Central Information Commission and State Information Commissions and for matters connected therewith or incidental thereto.
 
 Whereas the Constitution of India has established democratic Republic;
 
