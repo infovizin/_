@@ -17,16 +17,16 @@ information to citizens who desire to have it.
 Be it enacted by Parliament in the Fifty-sixth Year of the Republic of
 India as follows:—
  
-**CHAPTER I**
-<span id="Preliminary">**Preliminary**</span>
-**1**
+# CHAPTER I
+<span id="Preliminary">**Preliminary## </span>
+## 1
 (1)  This Act may be called the Right to Information Act, 2005.
  (2)  It extends to the whole of India except the State of Jammu and Kashmir.
  (3)  The provisions of sub-section (*1*) of section 4, sub-sections (*1*) and
 (*2*) of section 5, sections 12, 13, 15,16, 24 , 27 and 28 shall come
 into force at once, and the remaining provisions of this Act shall come
 into force on the one hundred and twentieth day of its enactment.
-**2**
+## 2
  
  
 In this Act, unless the context otherwise requires,—
@@ -211,14 +211,14 @@ information and includes a public authority.
  
  
  
-**CHAPTER II**
-**Right to information and obligations of public authorities**
-**3**
+# CHAPTER II
+## Right to information and obligations of public authorities
+## 3
  
  
 Subject to the provisions of this Act, all citizens shall have the right
 to information.
-**4**
+## 4
 (1)
  
 Every public authority shall—
@@ -382,7 +382,7 @@ Explanation.—For the purposes of sub-sections (3) and (4),
 public through notice boards, newspapers, public announcements, media
 broadcasts, the internet or any other means, including inspection of
 offices of any public authority.
-**5**
+## 5
  (1)
  
 Every public authority shall, within one hundred days of the enactment
@@ -433,7 +433,7 @@ assistance and for the purposes of any contravention of the provisions
 of this Act, such other officer shall be treated as a Central Public
 Information Officer or State Public Information Officer, as the case may
 be.
-**6**
+## 6
 (1)
  
 A person, who desires to obtain any information under this Act, shall
@@ -486,7 +486,7 @@ transfer:
 Provided that the transfer of an application pursuant to this
 sub-section shall be made as soon as practicable but in no case later
 than five days from the date of receipt of the application.
-**7**
+## 7
 (1)
  
  Subject to the proviso to sub-section (2) of section 5 or the proviso
@@ -592,7 +592,7 @@ An information shall ordinarily be provided in the form in which it is
 sought unless it would disproportionately divert the resources of the
 public authority or would be detrimental to the safety or preservation
 of the record in question.
-**8** 
+## 8##  
 (1)
  
 Notwithstanding anything contained in this Act, there shall be no
@@ -695,7 +695,7 @@ Provided that where any question arises as to the date from which the
 said period of twenty years has to be computed, the decision of the
 Central Government shall be final, subject to the usual appeals provided
 for in this Act.
-**9**
+## 9
  
  
 Without prejudice to the provisions of section 8, a Central Public
@@ -703,7 +703,7 @@ Information Officer or a State Public Information Officer, as the case
 may be, may reject a request for information where such a request for
 providing access would involve an infringement of copyright subsisting
 in a person other than the State.
-**10**
+## 10
 (1)
  
 Where a request for access to information is rejected on the ground that
@@ -749,7 +749,7 @@ the form of access provided, including the particulars of the senior
 officer specified under sub-section (1) of section 19 or the Central
 Information Commission or the State Information Commission, as the case
 may be, time limit, process and any other form of access.
-**11**
+## 11
  (1)
  
 Where a Central Public Information Officer or a State Public Information
@@ -795,9 +795,9 @@ writing the notice of his decision to the third party.
 A notice given under sub-section (3) shall include a statement that the
 third party to whom the notice is given is entitled to prefer an appeal
 under section 19 against the decision.
-**CHAPTER III**
-**The Central Information Commission**
-**12**
+# CHAPTER III
+## The Central Information Commission
+## 12
 (1)
  
 The Central Government shall, by notification in the Official Gazette,
@@ -874,7 +874,7 @@ or pursuing any profession.
 The headquarters of the Central Information Commission shall be at Delhi
 and the Central Information Commission may, with the previous approval
 of the Central Government, establish offices at other places in India.
-**13**
+## 13
  (1)
  
 The Chief Information Commissioner shall hold office for a term of five
@@ -968,7 +968,7 @@ may be necessary for the efficient performance of their functions under
 this Act, and the salaries and allowances payable to and the terms and
 conditions of service of the officers and other employees appointed for
 the purpose of this Act shall be such as may be prescribed.
-**14**
+## 14
 (1)
  
 Subject to the provisions of sub-section (3), the Chief Information
@@ -1029,9 +1029,9 @@ profit thereof or in any benefit or emolument arising there from
 otherwise than as a member and in common with the other members of an
 incorporated company, he shall, for the purposes of sub-section (1), be
 deemed to be guilty of misbehavior.
-**CHAPTER IV**
-<span id="SIC">**The State Information Commission**</span>
-**15**
+# CHAPTER IV
+<span id="SIC">## The State Information Commission## </span>
+## 15
 (1)
  
 Every State Government shall, by notification in the Official Gazette,
@@ -1110,7 +1110,7 @@ place in the State as the State Government may, by notification in the
 Official Gazette, specify and the State Information Commission may, with
 the previous approval of the State Government, establish offices at
 other places in the State.
-**16**
+## 16
 (1)
  
  The State Chief Information Commissioner shall hold office for a term
@@ -1218,7 +1218,7 @@ functions under this Act, and the salaries and allowances payable to and
 the terms and conditions of service of the officers and other employees
 appointed for the purpose of this Act shall be such as may be
 prescribed.
-**17**
+## 17
 (1)
  
 Subject to the provisions of sub-section (3), the State Chief
@@ -1279,10 +1279,10 @@ participates in any way in the profit thereof or in any benefit or
 emoluments arising therefrom otherwise than as a member and in common
 with the other members of an incorporated company, he shall, for the
 purposes of sub-section (1), be deemed to be guilty of misbehaviour.
-**CHAPTER V**
-<span id="Powers">**Powers and functions of the Information Commissions,
-appeal and penalties**</span>
-**18**
+# CHAPTER V
+<span id="Powers">## Powers and functions of the Information Commissions,
+appeal and penalties## </span>
+## 18
 (1)
  
 Subject to the provisions of this Act, it shall be the duty of the
@@ -1377,7 +1377,7 @@ may be, may, during the inquiry of any complaint under this Act, examine
 any record to which this Act applies which is under the control of the
 public authority, and no such record may be withheld from it on any
 grounds.
-**19**
+## 19
  (1)
  
 Any person who, does not receive a decision within the time specified in
@@ -1515,7 +1515,7 @@ of appeal, to the complainant and the public authority.
 The Central Information Commission or State Information Commission, as
 the case may be, shall decide the appeal in accordance with such
 procedure as may be prescribed.
-**20**
+## 20
 (1)
  
 Where the Central Information Commission or the State Information
@@ -1560,28 +1560,28 @@ the request or obstructed in any manner in furnishing the information,
 it shall recommend for disciplinary action against the Central Public
 Information Officer or the State Public Information Officer, as the case
 may be, under the service rules applicable to him.
-**CHAPTER VI**
-**Miscellaneous**
-**21**
+# CHAPTER VI
+## Miscellaneous
+## 21
  
  
 No suit, prosecution or other legal proceeding shall lie against any
 person for anything which is in good faith done or intended to be done
 under this Act or any rule made thereunder.
-**22**
+## 22
  
  
 The provisions of this Act shall have effect notwithstanding anything
 inconsistent therewith contained in the Official Secrets Act, 1923, and
 any other law for the time being in force or in any instrument having
 effect by virtue of any law other than this Act.
-**23**
+## 23
  
  
 No court shall entertain any suit, application or other proceeding in
 respect of any order made under this Act and no such order shall be
 called in question otherwise than by way of an appeal under this Act.
-**24**
+## 24
 (1)
  
  Nothing contained in this Act shall apply to the intelligence and
@@ -1644,7 +1644,7 @@ the receipt of request.
  
 Every notification issued under sub-section (4) shall be laid before the
 State Legislature.
-**25**
+## 25
 (1) 
  
 The Central Information Commission or State Information Commission, as
@@ -1724,7 +1724,7 @@ in relation to the exercise of its functions under this Act does not
 conform with the provisions or spirit of this Act, it may give to the
 authority a recommendation specifying the steps which ought in its
 opinion to be taken for promoting such conformity.
-**26**
+## 26
 (1)
  
 The appropriate Government may, to the extent of availability of
@@ -1821,7 +1821,7 @@ obtaining access to an information in accordance with this Act.
  
 The appropriate Government must, if necessary, update and publish the
 guidelines at regular intervals.
-**27**
+## 27
 (1)
  
 The appropriate Government may, by notification in the Official Gazette,
@@ -1861,7 +1861,7 @@ appeals under sub-section (10) of section 19; and
  
 (f)
 any other matter which is required to be, or may be, prescribed.
-**28**
+## 28
 (1)
  
 The competent authority may, by notification in the Official Gazette,
@@ -1889,7 +1889,7 @@ the fee payable under sub-section (1) of section 7; and
  
 (iv)
 any other matter which is required to be, or may be, prescribed.
-**29**
+## 29
 (1)
  
 Every rule made by the Central Government under this Act shall be laid,
@@ -1908,7 +1908,7 @@ anything previously done under that rule.
  
 Every rule made under this Act by a State Government shall be laid, as
 soon as may be after it is notified, before the State Legislature.
-**30**
+## 30
  (1)
  
 If any difficulty arises in giving effect to the provisions of this Act,
@@ -1925,18 +1925,18 @@ of two years from the date of the commencement of this Act.
  
 Every order made under this section shall, as soon as may be after it is
 made, be laid before each House of Parliament.
-**31**
+## 31
  
  
 The Freedom of Information Act, 2002 is hereby repealed.
-<span id="Schedule1">**THE FIRST SCHEDULE**</span>
-**\[*See* sections 13(*3*) and 16(*3*)\]**
+<span id="Schedule1">## THE FIRST SCHEDULE## </span>
+## \[*See* sections 13(*3*) and 16(*3*)\]
  
  
  
-**Form of oath or affirmation to be made by the Chief Information
+## Form of oath or affirmation to be made by the Chief Information
 Commissioner/the Information Commissioner/the State Chief Information
-Commissioner/the State Information Commissioner**
+Commissioner/the State Information Commissioner
 "I, ....................., having been appointed Chief Information
 Commissioner/Information Commissioner/State Chief Information
 Commissioner/State Information Commissioner <span class="underline">  
@@ -1948,8 +1948,8 @@ of India, that I will duly and faithfully and to the best of my ability,
 knowledge and judgment perform the duties of my office without fear or
 favour, affection or ill-will and that I will uphold the Constitution
 and the laws.".
-<span id="Schedule2">**THE SECOND SCHEDULE**</span>
-**(*See* section 24)**
+<span id="Schedule2">## THE SECOND SCHEDULE## </span>
+## (*See* section 24)
  
  
  
@@ -1957,76 +1957,76 @@ Intelligence and security organisation established by the Central
 Government
  
  
-**1.**
-**Intelligence Bureau.**
+## 1.
+## Intelligence Bureau.
  
  
-**2.**
-**Research and Analysis Wing of the Cabinet Secretariat.**
+## 2.
+## Research and Analysis Wing of the Cabinet Secretariat.
  
  
-**3.**
-**Directorate of Revenue Intelligence.**
+## 3.
+## Directorate of Revenue Intelligence.
  
  
-**4.**
-**Central Economic Intelligence Bureau.**
+## 4.
+## Central Economic Intelligence Bureau.
  
  
-**5.**
-**Directorate of Enforcement.**
+## 5.
+## Directorate of Enforcement.
  
  
-**6.**
-**Narcotics Control Bureau.**
+## 6.
+## Narcotics Control Bureau.
  
  
-**7.**
-**Aviation Research Centre.**
+## 7.
+## Aviation Research Centre.
  
  
-**8. **
-**Special Frontier Force.**
+## 8. 
+## Special Frontier Force.
  
  
-**9. **
-**Border Security Force.**
+## 9. 
+## Border Security Force.
  
  
-**10.**
-**Central Reserve Police Force.**
+## 10.
+## Central Reserve Police Force.
  
  
-**11.**
-**Indo-Tibetan Border Police.**
+## 11.
+## Indo-Tibetan Border Police.
  
  
-**12.**
-**Central Industrial Security Force.**
+## 12.
+## Central Industrial Security Force.
  
  
-**13.**
-**National Security Guards.**
+## 13.
+## National Security Guards.
  
  
-**14.**
-**Assam Rifles.**
+## 14.
+## Assam Rifles.
  
  
-**15.**
-**Special Service Bureau.**
+## 15.
+## Special Service Bureau.
  
  
-**16.**
-**Special Branch (CID), Andaman and Nicobar.**
+## 16.
+## Special Branch (CID), Andaman and Nicobar.
  
  
-**17.**
-**The Crime Branch-C.I.D.- CB, Dadra and Nagar Haveli.**
+## 17.
+## The Crime Branch-C.I.D.- CB, Dadra and Nagar Haveli.
  
  
-**18.**
-**Special Branch, Lakshadweep
-Police.**
+## 18.
+## Special Branch, Lakshadweep
+Police.
  
 <span style="margin: 0px auto; border: 2px dotted rgb(0, 0, 0); position: absolute; z-index: 2147483647; visibility: hidden; left: 721px; width: 0px; top: 3578px; height: 0px;"></span><span style="z-index: 2147483647; position: absolute; visibility: hidden; left: 706px; width: 50px; top: 3563px; height: 20px; font-size: 10px; color: black;"></span>
