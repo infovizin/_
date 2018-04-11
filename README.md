@@ -1,2 +1,2 @@
-This is a private site. :smile:
+This is a private site. :lock:
 
