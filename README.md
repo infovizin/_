@@ -1,2 +1,2 @@
-This is a private site. :lock:
+This is a private site. :imp:
 
