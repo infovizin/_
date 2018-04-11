@@ -18,7 +18,7 @@ Be it enacted by Parliament in the Fifty-sixth Year of the Republic of
 India as follows:—
  
 # CHAPTER I
-<span id="Preliminary">**Preliminary## </span>
+Preliminary
 ## 1
 (1)  This Act may be called the Right to Information Act, 2005.
  (2)  It extends to the whole of India except the State of Jammu and Kashmir.
