@@ -34,17 +34,17 @@ In this Act, unless the context otherwise requires,—
 (a)
  
 "appropriate Government" means in relation to a public authority which
-is established, constituted, owned, controlled or substantially financed
+is established, constituted, owned, controlled or substantially `financed`
 by funds provided directly or indirectly—
  
  
 (i) 
-by the Central Government or the Union territory administration, the
+by the `Central Government` or the Union territory administration, the
 Central Government;
  
  
 (ii)
-by the State Government, the State Government;
+by the `State Government`, the State Government;
  
 (b)
  
