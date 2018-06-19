@@ -1,12 +1,12 @@
 # Installing a Washing Machine
 ## Contents
-- [Warnings](#Warnings)
+- [Warning](#Warning)
 - [Installation](#Installation)
-- [Electrical Connection](#ElectricalConnection)
 - [Water Supply](#WaterSupply)
 - [Drain Connection](#DrainConnection)
+- [Electrical Connection](#ElectricalConnection)
 
-## :warning: Warnings
+## :warning: Warning!
 Read the following precautions before using the washing machine:
 * Remove the transport pins before using the washing machine.
 * The washing machine door gets auto-locked when the main control button is turned on. Ensure to turn off the main control button before plugging in the machine. 
@@ -17,9 +17,6 @@ Read the following precautions before using the washing machine:
 * Position the washing machine at a suitable place.
 
   :point_right: If you are replacing the washing machine, make sure to recycle your old machine.
-## Electrical Connection
-* Check the power supply connection before plugging in.
-* Turn on the main control button when the machine is ready for wash.
 ## Water Supply
 * Connect the water inlet PVC hoses to the special miniature valves.
 * Connect the red hose for hot water supply.
@@ -32,4 +29,7 @@ Read the following precautions before using the washing machine:
 * Connect the standpipe to the trap as shown in fig .
 * The standpipe-trap opening should be at least 0.6m (2 ft) above the floor.
 * Connect  the trap to the waste system for discharging dirty water. 
+## Electrical Connection
+* Check the power supply connection before plugging in.
+* Turn on the main control button when the machine is ready for wash.
 
