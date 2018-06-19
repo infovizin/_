@@ -1,6 +1,6 @@
 # Installing a Washing Machine
 ## Contents
-[Warnings](Warnings)
+[Warnings](#Warnings)
 ## Warnings
 Read the following precautions before using the washing machine:
 Remove the transport pins before using the washing machine.
