@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <body>
-
- <center>
 <form action="https://developer.nrel.gov/api/pvwatts/v5.json?api_key=" method="get" target="_blank">
 <br>
  <input type="hidden" name="api_key" value="jCtAj6gJCBngSY1vFYFfvU96bY85SAEDzzlXayPC">
@@ -31,8 +24,3 @@
   <input type="submit" value="Submit">
   
 </form>
- </center>
-
-
-</body>
-</html>
