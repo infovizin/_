@@ -6,7 +6,7 @@
 
 ## What is Tic-tac-toe?
 
-Tic-tac-toe is a game for two players, where a player who marks (either X or O) a complete row on a 3x3 grid will win the game. A player can mark the row either horizontally, vertically or diagnolly.
+Tic-tac-toe is a game for two players, where a player who marks (either X or O) a complete row on a 3x3 grid will win the game. A player can mark the row either horizontally, vertically or diagonally.
 
 ## Possible Outcomes
 * Win: A player who marks a complete row will win the game.
