@@ -19,8 +19,8 @@ Read the following precautions before using the washing machine:
   :point_right: If you are replacing the washing machine, make sure to recycle your old machine.
 ## Water Supply
 * Connect the water inlet PVC hoses to the special miniature valves.
-* Connect the red hose for hot water supply.
-* Connect the blue hose for cold water supply.
+  * Connect the red hose for hot water supply.
+  * Connect the blue hose for cold water supply.
 * Tighten the valve with Teflon tape to avoid water leakages.
 ## Drain Connection
 * Connect the machine hose to the standpipe.
