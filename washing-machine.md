@@ -30,7 +30,7 @@ Read the following precautions before using the washing machine:
  :point_right: The hose fits loosely  to avoid reverse flow of dirty water into the machine.
 * Connect the standpipe to the trap as shown in the above figure.
 * The standpipe-trap opening should be at least 0.6 m (2 ft) above the floor.
-* Connect  the trap to the waste system for discharging dirty water. 
+* Connect  the trap to the waste system for disposing dirty water. 
 ## Electrical Connection
 * Check the power supply connection before plugging in.
 * Turn on the main control button when the machine is ready for wash.
