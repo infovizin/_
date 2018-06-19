@@ -2,9 +2,9 @@
 ## Contents
 [Warnings](#Warnings)
 [Installation](#Installation)
-[Electrical Connection](#Electrical-Connection)
-[Water Supply](#Water Supply)
-[Drain Connection](#Drain Connection)
+[Electrical Connection](#ElectricalConnection)
+[Water Supply](#WaterSupply)
+[Drain Connection](#DrainConnection)
 
 ## Warnings
 Read the following precautions before using the washing machine:
@@ -16,7 +16,7 @@ Read the following precautions before using the washing machine:
 * Remove the packaging and bracketing material.
 * Position the washing machine at a suitable place.
 Note: If you are replacing the washing machine, make sure to recycle your old machine.
-## Electrical-Connection
+## Electrical Connection
 * Check the power supply connection before plugging in.
 * Turn on the main control button when the machine is ready for wash.
 ## Water Supply
