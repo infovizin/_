@@ -8,7 +8,7 @@
 
 ## :warning: Warning!
 Read the following precautions before using the washing machine:
-* Remove the transport pins before using the washing machine.
+* Remove the transport pins while unpacking the machine.
 * The washing machine door gets auto-locked when the main control button is turned on. Ensure to turn off the main control button before plugging in the machine. 
 * For machines with hot and cold water inlets,  ensure to install a blanking cap on the hot water inlet if the hot water supply is not available.
 
