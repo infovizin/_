@@ -22,12 +22,8 @@ The following example illustrates one of the possible ways to play on a 3x3 grid
  7 8 9
 
 * Step 1: 
-  * Player 1: **5** 
-     
-     The mark at the center can connect all rows. Therefore, marking 5 is the optimum choice.
-  * Player 2: **9** 
-     
-     Player 2 can mark anywhere considering to link the row in the subsequent steps.
+  * Player 1: **5** (the mark at the center can connect all rows. Therefore, marking 5 is the optimum choice.)
+  * Player 2: **9** (player 2 can mark anywhere considering to link the row in the subsequent steps.)
 * Step 2: 
   * Player 1: As 1-5-9 combination is ruled out, player 1 can select any of the following combinations:
     * 2-5-9
