@@ -29,7 +29,7 @@ The following example illustrates one of the possible ways to play on a 3x3 grid
     * 2-5-9
     * 3-5-7 
     * 4-5-6
-  * Player 2: Similarly, Player 2 can mark to prevent player 1 from marking X in row.
+  * Player 2: Similarly, player 2 can mark to prevent player 1 from marking X in row.
 * Repeat Step 2 until all unmarked grids are marked. 
 
 
