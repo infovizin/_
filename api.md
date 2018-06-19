@@ -9,15 +9,15 @@
  <br>
  System Capacity (kW): <input type="number" name="system_capacity"><br>
  <br>
- Module Type (<code>0—</code>Standard, <code>1</code>—Premium, <code>2</code>—Thin film): <input type="number" name="module_type"><br>
+ Module Type (<code>0</code>—Standard, <code>1</code>—Premium, <code>2</code>—Thin film): <input type="number" name="module_type"><br>
  <br>
- System Losses (-5% – 99%): <input type="number" name="losses"><br>
+ System Losses (<code>-5% – 99%</code>): <input type="number" name="losses"><br>
  <br>
  Array Type (<code>0</code>—Fixed - Open Rack, <code>1</code>—Fixed - Roof Mounted, <code>2</code>—1-Axis, <code>3</code>—1-Axis Backtracking, <code>4</code>—2-Axis): <input type="number" name="array_type"><br>
  <br>
- Tilt (0–90 degrees): <input type="number" name="tilt"><br>
+ Tilt (<code>0–90</code> degrees): <input type="number" name="tilt"><br>
  <br>
- Azimuth (0–360 degrees): <input type="number" name="azimuth"><br>
+ Azimuth (<code>0–360</code> degrees): <input type="number" name="azimuth"><br>
  <br>
  Solar Dataset (<code>tmy2</code>—TMY2, <code>tmy3</code>—TMY3, <code>intl</code>—International dataset, <code>IN</code>—India dataset): <input type="text" name="dataset"><br>
  <br>
