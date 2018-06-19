@@ -15,19 +15,21 @@ Read the following precautions before using the washing machine:
 ## Installation 
 * Remove the packaging and bracketing material.
 * Position the washing machine at a suitable place.
-
+  
   :point_right: If you are replacing the washing machine, make sure to recycle your old machine.
 ## Water Supply
+   ![Alt text](inlet.jpg)
 * Connect the water inlet PVC hoses to the special miniature valves.
   * Connect the red hose for hot water supply.
   * Connect the blue hose for cold water supply.
 * Tighten the valve with Teflon tape to avoid water leakages.
 ## Drain Connection
+   ![Alt text](outlet.jpg)
 * Connect the machine hose to the standpipe.
-
+ 
  :point_right: The hose fits loosely  to avoid reverse flow of dirty water into the machine.
-* Connect the standpipe to the trap as shown in fig .
-* The standpipe-trap opening should be at least 0.6m (2 ft) above the floor.
+* Connect the standpipe to the trap as shown in the above figure.
+* The standpipe-trap opening should be at least 0.6 m (2 ft) above the floor.
 * Connect  the trap to the waste system for discharging dirty water. 
 ## Electrical Connection
 * Check the power supply connection before plugging in.
