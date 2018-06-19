@@ -1,6 +1,11 @@
 # Installing a Washing Machine
 ## Contents
 [Warnings](#Warnings)
+[Installation](#Installation)
+[Electrical Connection](#Electrical Connection)
+[Water Supply](#Water Supply)
+[Drain Connection](#Drain Connection)
+
 ## Warnings
 Read the following precautions before using the washing machine:
 * Remove the transport pins before using the washing machine.
