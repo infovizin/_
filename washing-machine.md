@@ -1,6 +1,7 @@
 # Installing a Washing Machine
-Contents
-# #Warnings
+## Contents
+[Warnings](Warnings)
+## Warnings
 Read the following precautions before using the washing machine:
 Remove the transport pins before using the washing machine.
 The washing machine door gets auto-locked when the main control button is turned on. Ensure to turn off the main control button before plugging in the machine. 
