@@ -23,13 +23,13 @@ The following example illustrates one of the possible ways to play on a 3x3 grid
 
 * Step 1: 
   * Player 1: **5** (the mark at the center can connect all rows. Therefore, marking 5 is the optimum choice.)
-  * Player 2: **9** (player 2 can mark anywhere considering to link the row in the subsequent steps.)
+  * Player 2: **9** (Player 2 can mark anywhere considering to link the row in the subsequent steps.)
 * Step 2: 
-  * Player 1: As 1-5-9 combination is ruled out, player 1 can select any of the following combinations:
+  * Player 1: As 1-5-9 combination is ruled out, Player 1 can select any of the following combinations:
     * 2-5-9
     * 3-5-7 
     * 4-5-6
-  * Player 2: Similarly, player 2 can mark to prevent player 1 from marking X in row.
+  * Player 2: Similarly, Player 2 can mark to prevent Player 1 from marking X in row.
 * Repeat Step 2 until all unmarked grids are marked. 
 
 
