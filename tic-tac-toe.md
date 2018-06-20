@@ -15,11 +15,11 @@ Tic-tac-toe is a game for two players, where a player who marks (either X or O) 
 ## How to Play?
 The following example illustrates one of the possible ways to play on a 3x3 grid. In this example, Player 1 marker is X and Player 2 marker is O.
 
-       ` 1  2  3`
+   ` 1  2  3`
  
-       `4  5  6`
+   `4  5  6`
  
-       `7  8  9`
+   `7  8  9`
 
 * Step 1: 
   * Player 1: **5** (the mark at the center can connect all rows. Therefore, marking 5 is the optimum choice.)
