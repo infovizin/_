@@ -1,18 +1,18 @@
 # Product Evaluation with Focus Group Approach
 
 ## Objective
-The goal of this study is to collect user preferances and feedack about product `A` through focus group discussions. The observations thus obtained from the discussions should produce emperical evidence of product features as perceived by the respondents. 
+The goal of this study is to collect user preferances and feedack about product `A` through focus group discussions. The observations obtained from the discussions should be transformed to produce an emperical evidence of product features as perceived by the respondents. 
 
 ## Requirements
  * Moderator: TBD
  * Respondents: 20
  * Time: 30-45 min
- * Venue TBD
+ * Venue: TBD
  * Recording: Yes
- * Method: Open dicusssions 
+ * Method: Moderator-hosted open dicusssions 
 
-## Aproach
-
+## Approach
+From of group of 20 respondents, each respondent is asked to provide opinions on product features. 
 
 ## Implementation
 
