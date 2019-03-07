@@ -16,8 +16,8 @@ From of group of 20 respondents, each respondent is asked to provide opinions on
 
 ## Results
 
-[Variables](tb.png)
+![Variables](tb.png)
 
-[Graph](plot.png)
+! [Graph](plot.png)
 
 ## Conclusion
