@@ -14,10 +14,14 @@ The goal of this study is to collect user preferances and feedack about product 
 ## Approach
 From of group of 20 respondents, each respondent is asked to provide opinions on product features. The moderator and his team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user preerences.
 
+## Implementation
+### Sammple Qustionnaire
+
 ## Results
+### Reading the Plots
 
 ![Variables](tb.png)
 
-! [Graph](plot.png)
+![Graph](plot.png)
 
 ## Conclusion
