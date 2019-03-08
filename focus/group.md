@@ -4,7 +4,7 @@
 The goal of this study is to collect user preferences and feedback about product `A` through focus group discussions. The observations obtained from the discussions should be transformed to produce an empirical evidence of product features as perceived by the respondents. 
 
 ## Approach
-From a group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user responses.
+From a group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evaluate the product usefulness based on user responses.
 
 ### Requirements
  * Moderator: `TBD`
@@ -12,7 +12,7 @@ From a group of `20` respondents, each respondent is asked to provide opinions o
  * Time: `30-45 min`
  * Venue: `TBD`
  * Recording: `Yes`
- * Method: `Moderator-hosted open discusssion`
+ * Method: `Moderator-hosted open discussion`
  
 ### Assumptions
   Respondents are aware of product `A` features.
@@ -28,7 +28,7 @@ Before starting the session, the moderator should provide a brief introduction a
   - `not.willing.to.adapt` I don't agree with this product.
   - `willing.to.adapt.with.demo` I am interested, but I'd like to see the demo first.
 
-* Do you think the Tribal knowledge captrued by the tool is useful?
+* Do you think the Tribal knowledge captured by the tool is useful?
   - `tk.useful` Yes, the learning from each transaction is a potential input for new leads. 
   - `tk.useful.cannot.capture` I don't think the tool can capture all details.
   - `tk.not.useful` Tribal knowledge is not reliable. 
@@ -44,10 +44,10 @@ Before starting the session, the moderator should provide a brief introduction a
   - `ext.data.not.useful` External data is not reliable. 
   - `ext.data.biased` I don't believe external data is useful. It poses high risks as it may be infludenced by different stakeholders.
 
-* Product `A` improves sales performace with the approach described above.
-  - `valid.approach` Yes, its a valid approach. I agree that key data inputs are considered here.
+* Product `A` improves sales performance with the approach described above.
+  - `valid.approach` Yes, it's a valid approach. I agree that key data inputs are considered here.
   - `not.valid.approach` No, this approach is not useful. 
-  - `valid.approach.but.not.sure` Its a valid approach but not sure if this really helps. 
+  - `valid.approach.but.not.sure` It's a valid approach but not sure if this really helps. 
   
 ## Results
 
