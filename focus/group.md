@@ -20,8 +20,10 @@ From of group of 20 respondents, each respondent is asked to provide opinions on
 ## Results
 ### Reading the Plots
 
+#### Matrix Table
 ![Variables](tb_1.png)
 
+#### Relationship Plot
 ![Graph](plot_1.png)
 
 ## Conclusion
