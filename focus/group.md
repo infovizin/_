@@ -31,6 +31,7 @@ Before starting the session, the moderator should provide a brief introduction a
 * Do you think the Tribal knowledge captrued by the tool is useful?
   - `tk.useful` Yes, the learning from each transaction is a potential input for new leads. 
   - `tk.useful.cannot.capture` I don't think the tool can capture all details.
+  - `tk.not.useful` Tribal knowledge is not reliable. 
   - `tk.useful.noise` Maybe it can capture, but that is not reliable as it may be associated with noise due to manual intervention.
   
 * Do you think the tool scrapes CRM data to derive meaningful and useful suggestions? 
