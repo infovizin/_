@@ -18,9 +18,13 @@ From a group of `20` respondents, each respondent is asked to provide opinions o
   * Respondents are aware of product `A` features.
 
 ## Implementation
-Before starting the session, the moedrator should provide a brief introduction about the key features of product A. variables identified for the survey. 
-### Sample Questionnaire
+Before starting the session, the moedrator should provide a brief introduction about the key features of product A. These primary features are the variables identified for the survey. 
 
+### Sample Questionnaire
+1. Product `A` increases sales success rate. Would you like to try?
+ * willing.to.adapt
+ * not.willing.to.adapt
+ * willing.to.adapt.with.demo
 ## Results
 ### Reading the Plots
 
