@@ -12,7 +12,7 @@ From a group of `20` respondents, each respondent is asked to provide opinions o
  * Time: `30-45 min`
  * Venue: `TBD`
  * Recording: `Yes`
- * Method: `Moderator-hosted open dicusssion`
+ * Method: `Moderator-hosted open discusssion`
  
 ### Assumptions
   Respondents are aware of product `A` features.
