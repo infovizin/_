@@ -31,6 +31,16 @@ Before starting the session, the moedrator should provide a brief introduction a
   - `tk.useful.cannot.capture` I don't think the tool can capture all details.
   - `tk.useful.noise` Maybe it can capture, but that is not reliable as it be associated with noise due to manual intervention.
   
+* Do you think the tool scrapes CRM data to derive meaningful and useful suggestions? 
+  - `crm.optim.helps` Yes, CRM data is reliable database with lot of info. Struturing and channelising the data is possible with this tool. 
+  - `crm.optim.not.possible` I don't think the tool can capture all details.
+  - `crm.optim.helps.partial` Maybe it can capture, but not all info is useful for a successful deal.
+  
+* Do you think the data from external source increases sales efficiency? 
+  - `ext.data.helps` Yes, external data is required to refine and derive accurate options.
+  - `ext.data.not.useful` External data is not reliable. 
+  - `ext.data.biased` I don't believe external data is useful. It poses high risks as it may be infludenced by different stakeholders.
+
   
 ## Results
 
