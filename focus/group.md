@@ -15,17 +15,25 @@ From a group of `20` respondents, each respondent is asked to provide opinions o
  * Method: `Moderator-hosted open dicusssions`
  
 ### Assumptions
-  * Respondents are aware of product `A` features.
+  Respondents are aware of product `A` features.
 
 ## Implementation
 Before starting the session, the moedrator should provide a brief introduction about the key features of product A. These primary features are the variables identified for the survey. 
 
 ### Sample Questionnaire
-1. Product `A` increases sales success rate. Would you like to try?
+* Product `A` increases sales success rate. Would you like to try?
   - `willing.to.adapt` I am convinced with the features. I want to try.
   - `not.willing.to.adapt` I don't agree with this product.
   - `willing.to.adapt.with.demo` I am interested, but I'd like to see demo first.
+
+* Do you think the Tribal knowledge captrued by the tool is useful?
+  - `tk.useful` Yes, the learning from each transaction is a potential input for new leads. 
+  - `tk.useful.cannot.capture` I don't think the tool can capture all details.
+  - `tk.useful.noise` Maybe it can capture, but that is not reliable as it be associated with noise due to manual intervention.
+  
+  
 ## Results
+
 ### Reading the Plots
 
 #### Matrix Table
