@@ -1,4 +1,4 @@
-# Product Evaluation Using Focus Group Discussions
+# Product Evaluation Using Focus Group interview
 
 ## Objective
 The goal of this study is to collect user preferances and feeback about product `A` through focus group discussions. The observations obtained from the discussions should be transformed to produce an emperical evidence of product features as perceived by the respondents. 
