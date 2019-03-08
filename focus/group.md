@@ -20,6 +20,8 @@ From a group of `20` respondents, each respondent is asked to provide opinions o
 ## Implementation
 Before starting the session, the moedrator should provide a brief introduction about the key features of product A. These primary features are the variables identified for the survey. 
 
+**Note**: Generic questions are not included here. 
+
 ### Sample Questionnaire
 * Product `A` increases sales success rate. Would you like to try?
   - `willing.to.adapt` I am convinced with the features. I want to try.
@@ -41,15 +43,17 @@ Before starting the session, the moedrator should provide a brief introduction a
   - `ext.data.not.useful` External data is not reliable. 
   - `ext.data.biased` I don't believe external data is useful. It poses high risks as it may be infludenced by different stakeholders.
 
+* Product `A` improves sales performace with the approach described above.
+  - `valid.approach` Yes, its a valid approach. I agree that key data inputs are considered here.
+  - `not.valid.approach` No, this approach is not useful. 
+  - `valid.approach.but.not.sure` Its a valid approach but not sure if this really helps. 
   
 ## Results
 
-### Reading the Plots
-
-#### Matrix Table
+### Matrix Table
 ![Variables](tb_1.png)
 
-#### Relationship Plot
+### Relationship Plot
 ![Graph](plot_1.png)
 
 ## Conclusion
