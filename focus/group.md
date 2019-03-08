@@ -4,7 +4,7 @@
 The goal of this study is to collect user preferances and feeback about product `A` through focus group discussions. The observations obtained from the discussions should be transformed to produce an emperical evidence of product features as perceived by the respondents. 
 
 ## Approach
-From a group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user preferences.
+From a group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user responses.
 
 ### Requirements
  * Moderator: `TBD`
