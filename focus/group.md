@@ -22,9 +22,9 @@ Before starting the session, the moedrator should provide a brief introduction a
 
 ### Sample Questionnaire
 1. Product `A` increases sales success rate. Would you like to try?
- * willing.to.adapt
- * not.willing.to.adapt
- * willing.to.adapt.with.demo
+  * `willing.to.adapt` I am convinced with the features. I want to try.
+  * `not.willing.to.adapt` I don't agree with this product.
+  * `willing.to.adapt.with.demo` I am interested, but I'd like to see demo first.
 ## Results
 ### Reading the Plots
 
