@@ -20,8 +20,8 @@ From of group of 20 respondents, each respondent is asked to provide opinions on
 ## Results
 ### Reading the Plots
 
-![Variables](tb.png)
+![Variables](tb_1.png)
 
-![Graph](plot.png)
+![Graph](plot_1.png)
 
 ## Conclusion
