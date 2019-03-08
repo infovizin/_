@@ -1,10 +1,10 @@
-# Product Evaluation with Focus Group Approach
+# Product Evaluation Using Focus Group Discussions
 
 ## Objective
 The goal of this study is to collect user preferances and feedack about product `A` through focus group discussions. The observations obtained from the discussions should be transformed to produce an emperical evidence of product features as perceived by the respondents. 
 
 ## Approach
-From of group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user preerences.
+From a group of `20` respondents, each respondent is asked to provide opinions on product features. The moderator and his/her team collects the opinion of each user through interactions. The survey should produce sufficient data to evalute the product usefulness based on user preerences.
 
 ### Requirements
  * Moderator: `TBD`
@@ -13,8 +13,12 @@ From of group of `20` respondents, each respondent is asked to provide opinions 
  * Venue: `TBD`
  * Recording: `Yes`
  * Method: `Moderator-hosted open dicusssions`
+ 
+### Assumptions
+  * Respondents are aware of product `A` features.
 
 ## Implementation
+Before starting the session, the moedrator should provide a brief introduction about the key features of product A. variables identified for the survey. 
 ### Sample Questionnaire
 
 ## Results
