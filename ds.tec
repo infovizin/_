@@ -1,0 +1,185 @@
+\documentclass[helvetica,english,logo,notitle,totpages,utf8]{europecv2013}
+\usepackage{graphicx}
+\usepackage[a4paper,top=2cm,left=2cm,right=2cm,bottom=2.5cm]{geometry}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+
+%[Tutti i campi del CV sono facoltativi. Rimuovere i campi vuoti.]
+\ecvname{Prasad G}
+%\ecvaddress{TF 01, VJ Infiniti, 2nd cross, Doctors layout, Kasturinagar, Bangalore, India}
+\ecvtelephone[+91 96635 23948]{}
+\ecvemail{pgz@protonmail.com}
+%\ecvhomepage{\href{Homepage URL}{Homepage URL without ``http://''}}
+%\ecvlinkedin{\href{LinkedIn public profile URL}{LinkedIn public profile URL without ``http://''}}
+\ecvgender{Male}
+\ecvdateofbirth{December 14, 1982}
+\ecvnationality{Indian}
+
+%\ecvfootnote{© European Union, 2002-2015 | http://europass.cedefop.europa.eu}
+%\ecvbeforepicture{\raggedleft}
+%\ecvpicture[width=2.5cm]{file-immagine-eps}
+%\ecvafterpicture{\ecvspace{-37mm}}
+
+\begin{document}
+\selectlanguage{english}
+
+\begin{europecv}
+\ecvpersonalinfo[10pt]
+
+\ecvposition{Job applied for}{Technical Writer}
+
+\ecvsection{Work experience}
+%[Add separate entries for each experience. Start from the most recent.]
+\ecvworkexperience{2014--Present}{Sr. Technical Writer}{Synopsys, Bangalore}{}{}{}
+\vspace{-.2cm}
+\ecvitem{ }{Responsible for development, management, and execution of technical documentation.}
+\ecvitem{}{Research, develop, and implement tools/processes for customer success.}
+\ecvitem{}{Created Markdown-based HTML template for hosting entire documentation.}
+%\ecvitem{}{Customized Natural Language Processing (NLP) advanced search engine.}
+%\ecvitem{}{Driving the Machine Learning initiatives team; working on chatbot implementation.}
+\ecvitem{}{Conducted customer surveys and generated reports focusing on customer feedback and product improvements.} %\href{https://www.synopsys.com/community/snug.html}{SNUG} (annual event where over 2000 customers participate). }
+\ecvitem{}{Developed marketing collateral such as customer presentations, products datasheets, reports, posters, etc.}
+
+
+%\ecvsection{Work experience}
+%[Add separate entries for each experience. Start from the most recent.]
+\ecvworkexperience{2010--2014}{Documentation Specialist/Marketing}{Sun to Market Solutions, Bangalore}{}{}{}
+\vspace{-.2cm}
+\ecvitem{}{Created techno-commercial proposals, bid responses, business proposals, RFPs, etc.}
+\ecvitem{}{Created press releases, newsletters, webinars, speeches, company presentations, brochures, etc.}
+\ecvitem{}{Conceptualized and executed the solutions/services' website and campaign pages. }
+\ecvitem{}{Conducted surveys and interviews with business partners, industry leaders and influencers.}
+\vspace{-.1cm}
+\ecvworkexperience{2009-2010}{Intern}{Sun to Market Solutions, Madrid}{}{}{}
+\ecvitem{}{Developed a marketing plan for energy storage applications in India.}
+\ecvitem{}{Designed and executed a product development roadmap and go-to-market strategy.}
+\vspace{-.1cm}
+\ecvworkexperience{2007-2009}{Documentation Engineer II}{ANSYS Fluent India Pvt. Ltd., Pune}{}{}{}
+%\subsection{Job Role}
+\ecvitem{}{Authored Installation Guides, Getting Started Guides, User Guides, Release Notes, Tutorials, etc.}
+\ecvitem{}{Produced high quality technical documentation using \LaTeX. }
+
+%\vspace{-.2cm}
+\ecvworkexperience{2005-2007}{Marketing Content Writer}{Freelance}{}{}{}
+%%\subsection{Job Role}
+\ecvitem{}{Developed business-specific web content with advanced SEO.}
+\ecvitem{}{Responsible for updating, editing and maintaining the web content.}
+%
+
+\newpage
+
+\ecvsection{Education and training}
+%[Add separate entries for each course. Start from the most recent.]
+
+\ecveducation{2010}{Master of Business Administration}{Universidad Carlos III de Madrid, Spain}{}{}
+
+\ecveducation{2005}{Bachelor Degree in Mechanical Engineering}{Visvesvaraya Technological University, India}{}{}
+
+
+
+%ecvitem{Year}{2010}
+%\ecvitem{Title of qualification awarded}{Master of Business Administration}
+%%\ecvitem{Principal subjects/Occupational skills covered}{\ldots}
+%\ecvitem{University}{Universidad Carlos III de Madrid, Spain}
+
+\ecvsection{Personal skills}
+\ecvmothertongue[5pt]{Telugu}
+\ecvlanguageheader{(*)}
+\ecvlanguage{English}{C1}{C2}{C1}{C1}{C2}
+\vspace{0.5cm}
+\ecvlanguage{Spanish}{B1}{B2}{A2}{A2}{A1}
+
+
+
+%\ecvlanguage{Hindi}{C1}{B2}{C1}{C1}{B2}
+%\ecvlanguage{Kannada}{C2}{C1}{C2}{C2}{C1}
+%\ecvlanguage{Tamil}{B1}{}{A2}{A2}{}
+%\vspace{0.1cm}
+%\ecvlanguagefooter[0.5cm]{(*\url{http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr})}
+
+%
+%\ecvmothertongue[20pt]{Replace with mother tongue(s)}
+%\ecvlanguageheader
+%\ecvlanguage{Replace with language}{Enter level}{Enter level}{Enter level}{Enter level}{Enter level}
+%\ecvlastlanguage{Replace with language}{Enter level}{Enter level}{Enter level}{Enter level}{Enter level}
+%\ecvlanguagefooter[10pt]
+
+
+
+\ecvitem[3pt]{Executive Summary}{13+ years experience in researching, planning, estimating, writing technical and business documents.}
+\ecvitem[3pt]{}{Strong knowledge in creating User Manuals, Installation Manuals, Technical Manuals, Training Manuals etc.}
+\ecvitem[3pt]{}{Expert-level knowledge of industry-standard authoring and development tools.}
+\ecvitem[3pt]{}{Adept at translating raw data and complex technology concepts into clear and concise documentation.}
+\ecvitem[3pt]{}{Effective communication with technical and marketing teams to develop documentation targeting customer needs.}
+\ecvitem[3pt]{}{Trained teams for skills in information design, tools, techniques and style guides.}
+
+\ecvitem[3pt]{\large Communication skills}{Excellent communication, negotiation and presentation skills.}
+\ecvitem[3pt]{}{Demonstrated ability to build effective business relationships.}
+\ecvitem[3pt]{}{Good ability to adapt to multicultural environments, gained through my study and work experience in Spain.}
+\ecvitem[3pt]{}{Experienced at giving presentations and speeches to large audiences.}
+
+%\ecvitem[3pt]{\large Organizational skills }{Good experience in project and team management}
+%\ecvitem[3pt]{ }{ Self-starter with excellent time management skills}
+%\ecvitem[3pt]{}{Proven ability to work independently with minimal direction or supervision}
+
+\ecvitem[3pt]{\large Computer skills }{}
+%\ecvitem{MS Ofice}{Advanced user of Office Suite with macros scripting for automation (MS Word), data analysis (MS Excel), email campaigning (MS Outlook), marketing collateral (MS Publisher), content management (SharePoint), etc. }
+%\ecvitem{Content Management \& Publishing tools}{Powerpoint (presentations), MS Publisher (Newsletters \& Brochures)}
+%SharePoint, TikiWiki, etc.}
+
+\ecvitem{}{\textbf{Publishing Tools}: MS Office Suite, \LaTeX, Adobe FrameMaker, Doxygen, Webworks Reverb, Dreamweaver, Markdown, etc.}
+%\ecvitem{Text Editors}{\LaTeX(PDF), Adobe Framemaker(PDF), Dreamweaver (HTML), Notepad++(XML)}
+%\ecvitem{}{HTML, XML(including schema \& style sheets)}
+%\ecvitem{Web Tools}{Dreamweaver, Notepad++}
+%\ecvitem{Operating Systems}{Windows, Unix}
+%\ecvitem{Version Control}{Perforce, Concurrent Versions System}
+%\ecvitem{Graphics Tools}{MS Visio, Xfig, Dia}
+%\ecvitem{Statistical Analysis}{SAS, Statgraphics, R}
+
+
+
+
+
+
+%%\ecvitem[10pt]{Communication skills}{Replace with your communication skills. Specify in what context they were acquired. Example:\par
+%%good communication skills gained through my experience as sales manager}
+%%\ecvitem[10pt]{Organisational / managerial skills}{Replace with your organisational / managerial skills. Specify in what context they were acquired. Example:\par
+%%leadership (currently responsible for a team of 10 people)}
+%%\ecvitem[10pt]{Job-related skills}{Replace with any job-related skills not listed elsewhere. Specify in what context they were acquired. Example:\par
+%%good command of quality control processes (currently responsible for quality audit) }
+%%\ecvitem[10pt]{Computer skills}{Replace with your computer skills. Specify in what context they were acquired. Example:\par
+%good command of Microsoft Office\texttrademark\ tools}
+%\ecvitem[10pt]{Other skills}{Replace with other relevant skills not already mentioned. Specify in what context they were acquired. Example:\par
+%carpentry}
+
+%\ecvitem{Driving licence}{Replace with driving licence category/-ies.}
+
+%\ecvsection{Additional information}
+%
+%\ecvitem[10pt]{Publications
+%Presentations
+%Projects
+%Conferences
+%Seminars
+%Honours and awards
+%Memberships
+%References}{Replace with relevant publications, presentations, projects, conferences, seminars, honours and awards, memberships, references. Remove headings not relevant in the left column.}
+
+%\ecvsection{Annexes}
+%
+%\ecvitem[10pt]{}{Replace with list of documents annexed to your CV. Examples:
+%\begin{itemize}
+%\item copies of degrees and qualifications; 
+%\item testimonial of employment or work placement;
+%\item publications or research.
+%\end{itemize}}
+\ecvsection{Additional information}
+%\ecvitem[10pt]{}{Include here any other information that may be relevant, for example contact persons, references, etc. (Remove heading if not relevant).}
+%\bibliographystyle{plain}
+%\nobibliography{publications}
+%\ecvitem{}{\textbf{Publications}}
+\ecvitem{\large Driving licence(s)}{Cars}
+\ecvitem{\large References}{Available on request}
+
+\end{europecv}
+\end{document} 
